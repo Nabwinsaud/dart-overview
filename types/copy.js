@@ -18,3 +18,6 @@ const copyText = async() => {
         console.log("couldnot copy text", error);
     }
 };
+
+// jwt auth
+// functio checkAuth(){}
